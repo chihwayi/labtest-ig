@@ -15,6 +15,7 @@ Description: "Example of a profile of Patient"
 * gender from ZimGenderVS
 * gender ^short = "Patient's gender: male, female, unknown"  
 
+* photo 0..0
 
 
 
